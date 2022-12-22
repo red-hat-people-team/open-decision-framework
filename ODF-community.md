@@ -120,7 +120,7 @@ _page 5 of 15_
 </table>
 
 
-You can't please everyone. 
+Not every time you can please everyone.
 ----------------------------------------------------
 **But when you make open decisions, people feel...**  _page 6 of 15_ 
 
@@ -240,7 +240,7 @@ _page 8 of 15_
 <tr>
 <td>
  • Impact – who, how often, and unexpected<br/>
- • Where and how to collaborate<Br/>
+ • Where and how to collaborate<br/>
  • Roles + responsibilities (OPT model: https://github.com/red-hat-people-team/opt-model/) 
 </td>
 </tr>
